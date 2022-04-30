@@ -1,0 +1,26 @@
+{"Teams":[
+    {"id":1,"name":"EST","capitain":"test1", "members":[
+        {"id":1, "name": "member 1"},
+        {"id":2, "name": "member 2"},
+        {"id":3, "name": "member 3"}
+
+    ]},
+    {"id":2,"name":"CA","capitain":"test2","members":[
+        {"id":1, "name": "member 21"},
+        {"id":2, "name": "member 22"},
+        {"id":3, "name": "member 23"}
+
+    ]}  ,
+    {"id":3,"name":"CSS","capitain":"test3","members":[
+        {"id":1, "name": "member 31"},
+        {"id":2, "name": "member 32"},
+        {"id":3, "name": "member 33"}
+
+    ]}  ,
+    {"id":4,"name":"JSK","capitain":"test4","members":[
+        {"id":1, "name": "member 41"},
+        {"id":2, "name": "member 42"},
+        {"id":3, "name": "member 43"}
+
+    ]} 
+]}
